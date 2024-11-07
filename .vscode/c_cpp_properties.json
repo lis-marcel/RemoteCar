@@ -8,14 +8,14 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "c:/_Projects/C++/RemoteCar/include",
-                "c:/_Projects/C++/RemoteCar/src",
+                "c:/_Projects/FoxNet.Car/include",
+                "c:/_Projects/FoxNet.Car/src",
                 "C:/Users/lisma/.platformio/packages/framework-arduinoespressif32/libraries/SPIFFS/src",
                 "C:/Users/lisma/.platformio/packages/framework-arduinoespressif32/libraries/WebServer/src",
-                "c:/_Projects/C++/RemoteCar/.pio/libdeps/upesy_wroom/ESPAsyncWebServer-esphome/src",
+                "c:/_Projects/FoxNet.Car/.pio/libdeps/upesy_wroom/ESPAsyncWebServer-esphome/src",
                 "C:/Users/lisma/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src",
                 "C:/Users/lisma/.platformio/packages/framework-arduinoespressif32/libraries/FS/src",
-                "c:/_Projects/C++/RemoteCar/.pio/libdeps/upesy_wroom/AsyncTCP-esphome/src",
+                "c:/_Projects/FoxNet.Car/.pio/libdeps/upesy_wroom/AsyncTCP-esphome/src",
                 "C:/Users/lisma/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/newlib/platform_include",
                 "C:/Users/lisma/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include",
                 "C:/Users/lisma/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/esp_additions/freertos",
@@ -240,14 +240,14 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "c:/_Projects/C++/RemoteCar/include",
-                    "c:/_Projects/C++/RemoteCar/src",
+                    "c:/_Projects/FoxNet.Car/include",
+                    "c:/_Projects/FoxNet.Car/src",
                     "C:/Users/lisma/.platformio/packages/framework-arduinoespressif32/libraries/SPIFFS/src",
                     "C:/Users/lisma/.platformio/packages/framework-arduinoespressif32/libraries/WebServer/src",
-                    "c:/_Projects/C++/RemoteCar/.pio/libdeps/upesy_wroom/ESPAsyncWebServer-esphome/src",
+                    "c:/_Projects/FoxNet.Car/.pio/libdeps/upesy_wroom/ESPAsyncWebServer-esphome/src",
                     "C:/Users/lisma/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src",
                     "C:/Users/lisma/.platformio/packages/framework-arduinoespressif32/libraries/FS/src",
-                    "c:/_Projects/C++/RemoteCar/.pio/libdeps/upesy_wroom/AsyncTCP-esphome/src",
+                    "c:/_Projects/FoxNet.Car/.pio/libdeps/upesy_wroom/AsyncTCP-esphome/src",
                     "C:/Users/lisma/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/newlib/platform_include",
                     "C:/Users/lisma/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include",
                     "C:/Users/lisma/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/esp_additions/freertos",
@@ -471,7 +471,7 @@
                 ]
             },
             "defines": [
-                "PLATFORMIO=60113",
+                "PLATFORMIO=60111",
                 "ARDUINO_uPesy_WROOM",
                 "HAVE_CONFIG_H",
                 "MBEDTLS_CONFIG_FILE=\"mbedtls/esp_config.h\"",
